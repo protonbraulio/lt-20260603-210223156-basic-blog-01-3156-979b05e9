@@ -1,0 +1,32 @@
+{
+  "version": "1",
+  "slug": "appointment-booking-funnels-basics-local-dental-clinics",
+  "kind": "post",
+  "title": "Appointment Booking Funnels Basics for Local Dental Clinics",
+  "alt": "Appointment Booking Funnels Basics for Local Dental Clinics",
+  "description": "Introduce appointment booking funnels in a concise editorial format for owners expanding into new local markets. Related entities: Appointment Booking Funnels Workflow, Appointment Booking Funnels Best Practices.",
+  "fallbackImage": {
+    "format": "svg",
+    "href": "https://protonbraulio.github.io/lt-20260603-210223156-basic-blog-01-3156-979b05e9/content-pack-images/appointment-booking-funnels-basics-local-dental-clinics.svg",
+    "assetPath": "public/content-pack-images/appointment-booking-funnels-basics-local-dental-clinics.svg",
+    "width": 1200,
+    "height": 630
+  },
+  "socialImage": {
+    "preferredFormat": "png",
+    "href": "https://protonbraulio.github.io/lt-20260603-210223156-basic-blog-01-3156-979b05e9/content-pack-images/appointment-booking-funnels-basics-local-dental-clinics.png",
+    "assetPath": "public/content-pack-images/appointment-booking-funnels-basics-local-dental-clinics.png",
+    "width": 1200,
+    "height": 630,
+    "status": "specified",
+    "xmpSidecarPath": "public/content-pack-images/appointment-booking-funnels-basics-local-dental-clinics.png.xmp"
+  },
+  "metadata": {
+    "creator": "Basic Blog Load Test 01 20260603-210223156",
+    "credit": "Basic Blog Load Test 01 20260603-210223156",
+    "copyrightNotice": "Copyright 2026 Basic Blog Load Test 01 20260603-210223156",
+    "licenseUrl": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+    "acquisitionUrl": "https://protonbraulio.github.io/lt-20260603-210223156-basic-blog-01-3156-979b05e9/content-pack-images/appointment-booking-funnels-basics-local-dental-clinics.svg",
+    "aiDisclosure": "Deterministic content-pack image generated from page/post metadata; no provider image model was used."
+  }
+}
